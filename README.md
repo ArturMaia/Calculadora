@@ -2,7 +2,7 @@
   <img src="https://github.com/ArturMaia/Calculadora/blob/main/calculadora.jpg" alt="calculadora" style="width: 150px; border-radius: 10px;">
 </p>
 
-# Calculadora em Python com Tkinter
+# Calculadora Python
 
 Este é um projeto de uma **calculadora simples** desenvolvida em **Python** usando a biblioteca **Tkinter** para a interface gráfica. A calculadora suporta operações matemáticas básicas (soma, subtração, multiplicação, divisão), além de potenciação (`^`) e raiz quadrada (`√`). A interface é interativa e permite que o usuário insira números e realize cálculos facilmente. A aplicação foi criada para demonstrar o uso do Tkinter na construção de interfaces gráficas e para mostrar como realizar operações matemáticas em Python.
 
